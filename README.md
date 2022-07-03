@@ -1,9 +1,9 @@
 <h1 align="center">
-    <h1>Todo-List</h1>
+    <h1 align="center">Todo-List</h1>
 </h1>
 
-<h1>
-    <img src="image/todo-list-image.png" align="center">
+<h1 align="center">
+    <img src="image/todo-list-image.png">
 </h1>
 
 
